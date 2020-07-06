@@ -1,0 +1,10 @@
+ Volume in drive R is Local Disk 
+ Volume Serial Number is 1A3A-B89B
+
+ Directory of R:\Project1
+
+06-07-2020  05.52 PM    <DIR>          .
+06-07-2020  05.52 PM    <DIR>          ..
+06-07-2020  05.52 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  86,269,673,472 bytes free
